@@ -1527,7 +1527,7 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:rinjax/website.git",
-                "reference": "d398e45fa0d39360d24de519faed0eb49afbf3b8"
+                "reference": "6a9e89358f074336fef2f91dc7898452e76bbc64"
             },
             "require-dev": {
                 "rinjax/css-spinners": "^0.0.1"
@@ -1552,7 +1552,7 @@
                 }
             ],
             "description": "my own little website",
-            "time": "2020-01-27 21:51:03"
+            "time": "2020-01-31 21:42:43"
         },
         {
             "name": "swiftmailer/swiftmailer",
