@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a6fea2956c792ea1b74c961e6870b13b",
+    "content-hash": "1ae32669f3c9205a97e7eb15f77bdbcb",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -1440,11 +1440,11 @@
         },
         {
             "name": "rinjax/website",
-            "version": "0.0.2",
+            "version": "0.0.3",
             "source": {
                 "type": "git",
                 "url": "git@github.com:rinjax/website.git",
-                "reference": "ec5aac9d559f415c8e9bab239e43ab1f773a408d"
+                "reference": "0cdae7f45db9d567a0c13c325222fc5d1224def5"
             },
             "require-dev": {
                 "rinjax/css-spinners": "^0.0.2"
@@ -1469,7 +1469,7 @@
                 }
             ],
             "description": "my own little website",
-            "time": "2020-05-16T08:23:27+00:00"
+            "time": "2020-05-17T14:15:24+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
