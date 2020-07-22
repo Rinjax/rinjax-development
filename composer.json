@@ -19,7 +19,7 @@
         "fideloper/proxy": "^4.0",
         "laravel/framework": "^6.2",
         "laravel/tinker": "^2.0",
-        "rinjax/website": "0.0.4"
+        "rinjax/website": "0.0.5"
     },
     "require-dev": {
         "facade/ignition": "^1.4",
